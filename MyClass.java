@@ -1,5 +1,8 @@
 class Myclass{
-
+ void MyFile()
+ {
+  
+ }
  void naveen(){
   System.out.println("Hello All!");
  }
@@ -13,14 +16,6 @@ class Myclass{
   }
   public static void main(String []args){
         MyMethod(); 
-
- /*void method1()
-   {
-    System.out.println("Hello!");
   }
-  public static void main(String []args){
-    Myclass obj =new Myclass();
-    obj.method1();
-*/
-  
 }
+
