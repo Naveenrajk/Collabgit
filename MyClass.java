@@ -1,5 +1,8 @@
 class Myclass{
 
+ void valan() {
+
+ }
   public static MyMethod()
   {
     System.out.println("Sub");
