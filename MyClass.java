@@ -1,5 +1,9 @@
 class Myclass{
 
+ void naveen(){
+  System.out.println("Hello All!");
+ }
+
  void valan() {
 
  }
