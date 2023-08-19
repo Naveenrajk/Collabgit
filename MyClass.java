@@ -10,6 +10,10 @@ class Myclass{
  void valan() {
 
  }
+ void gayathri()
+ {
+  
+ }
   public static MyMethod()
   {
     System.out.println("Sub");
